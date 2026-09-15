@@ -1,0 +1,35 @@
+@import url('httpa://fonts.googleapis.com/css2?family=coral+pixelsplay=swap');  
+
+:root {
+    --gradiente: linear-grandient(135deg, #c3and)
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+font-family: 'times new roman', 'Times New Roman', Times, serif;
+color: aqua(29, 78, 0);
+line-height: 1.6;
+background-color: aliceblue(252, 255, 215, 0.966);
+}
+
+.foto-de-perfli (
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 12px;
+  border: 3px soli 
+
+) 
+
+nav a {
+color: aliceblue;
+text-decoration: none;
+font-weight: bold;
+padding-bottom; 4px;
+}
